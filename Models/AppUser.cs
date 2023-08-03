@@ -2,6 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNetCore.Identity;
 
 namespace GalloFlix.Models;
+
 public class AppUser : IdentityUser
 {
     [Required]

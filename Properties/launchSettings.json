@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "Galloflix": {
+    "GalloFlix": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
