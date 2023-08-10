@@ -10964,11 +10964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etec\\Galloflix\\Galloflix.csproj",
+      "projectUniqueName": "C:\\Users\\etec\\Desktop\\Galloflix\\Galloflix.csproj",
       "projectName": "Galloflix",
-      "projectPath": "C:\\Users\\etec\\Galloflix\\Galloflix.csproj",
+      "projectPath": "C:\\Users\\etec\\Desktop\\Galloflix\\Galloflix.csproj",
       "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etec\\Galloflix\\obj\\",
+      "outputPath": "C:\\Users\\etec\\Desktop\\Galloflix\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",

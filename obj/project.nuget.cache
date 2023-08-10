@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m12aiQAA/m4yPMTjLZb8EEpakFuj1FeKwIZ4Mg77VvxLR2nnih+k8m4tCOmRD/0gyPsMCaGMBs8U8+ykzrNTaQ==",
+  "dgSpecHash": "erxZ7hMSFGaQWKIcrwoMH8RzDkDrqcSVX+hUAI4/Peius+YZAA73S3kwdaDPQiN9HS+5+B+/kS1ZoRGRK7jn3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\etec\\Galloflix\\Galloflix.csproj",
+  "projectFilePath": "C:\\Users\\etec\\Desktop\\Galloflix\\Galloflix.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
